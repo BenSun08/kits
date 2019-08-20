@@ -1,2 +1,2 @@
-# kits-tool
+# kits(in Javascript)
 Javascript kits 
