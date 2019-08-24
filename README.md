@@ -28,3 +28,28 @@
 > kits.getRandRGBColor()
 > //get a random color in RGB form(rgb(0,0,0)-rgb(255,255,255))
 > ```
+* #### Methods used for localStorage
+> ```js
+> kits.getLocalDataArray(key)
+> //get an array of data conserved in the localStorage with the key
+> ```
+> ```js
+> kits.saveLocalDataArray(key, arr)
+> //save an array of data into the localStorage with the key
+> ```
+> ```js
+> kits.appendDataIntoArray(key, data)
+> //append the data to the array with corresponding key in the localStorage
+> ```
+> ```js
+> kits.prependDataIntoArray(key, data)
+> //prepend the data to the array with corresponding key in the localStorage
+> ```
+> ```js
+> kits.deleteLocalDataArray(key, id)
+> //delete the data in the array with the corresponding key in the localStorage according to the ID
+> ```
+> ```js
+> kits.modifyLocalDataArray(key, id, data)
+> //modify the data in the array with the corresponding key in the localStorage according to the id
+> ```
