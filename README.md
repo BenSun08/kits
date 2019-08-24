@@ -3,6 +3,7 @@
 ## Catalogue
 * ### Properties
 * ### Methods
+* #### Methods used to get some random quantities
 > ```js
 > kits.zeroPatch()
 > //patch a zero brfore a number which is less than ten
